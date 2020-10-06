@@ -1,0 +1,400 @@
+@media (min-width: 768px) and (max-width: 991.98px) {
+    ...
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    ...
+}
+
+/* Mideum Device */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar .navbar-nav .nav-link {
+        padding-right: 7px;
+        padding-left: 7px;
+        font-size: 10px;
+    }
+
+    .navbar-brand {
+        width: 150px;
+    }
+
+    .navbar-brand img {
+        width: 150px;
+    }
+
+    .navbar .container {
+        padding-right: 15px;
+    }
+
+    .buttons button {
+        padding: 10px 20px;
+        margin-bottom: 16px;
+    }
+
+    .mobile-text {
+        padding-top: 0px;
+    }
+
+    .mobile-text h3 {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+
+    .mobile-text p {
+        font-size: 10px;
+    }
+
+    .features p {
+        font-size: 10px;
+    }
+
+    #client {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .client-logo {
+        text-align: center;
+        padding-bottom: 40px;
+    }
+
+    .market-place p {
+        font-size: 11px;
+    }
+
+    .copy-right-text p {
+        font-size: 11px;
+    }
+}
+
+
+/* Small Device */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-toggler i {
+        color: #fff;
+        font-size: 30px;
+        outline: 0;
+    }
+
+    .navbar-light .navbar-toggler {
+        border-color: transparent;
+    }
+
+    .navbar-toggler:not(:disabled):not(.disabled) {
+        background: #998675;
+    }
+
+    .navbar {
+        padding: 15px 1rem;
+    }
+
+    .navbar-nav {
+        background: #715944;
+        text-align: center;
+    }
+
+    .navbar .navbar-nav .nav-link {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    #banner {
+        padding-top: 140px;
+        padding-bottom: 100px;
+    }
+
+    .banner-item h1 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 40px;
+        font-weight: 800;
+        color: #fff;
+        padding-bottom: 14px;
+    }
+
+    #service {
+        padding: 40px 0;
+    }
+
+    .idea-text {
+        padding-top: 50px;
+        padding-bottom: 35px;
+    }
+
+    .purchase-left {
+        text-align: center;
+    }
+
+    #purchase {
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+
+    .purchase-right {
+        text-align: center;
+    }
+
+    #gallery {
+        padding-top: 0;
+        padding-bottom: 50px;
+    }
+
+    .buttons button {
+        padding: 10px 8px;
+        margin-bottom: 16px;
+    }
+
+    .buttons {
+        padding-bottom: 15px;
+    }
+
+    .load-btn {
+        padding-top: 15px;
+    }
+
+    #vedio {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    #mobile {
+        padding-top: 50px;
+    }
+
+    .mobile-text {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+
+    .features {
+        padding-left: 10px;
+    }
+
+    .features i {
+        margin-right: 10px;
+    }
+
+    .counter-item {
+        padding-top: 40px;
+    }
+
+    #counter {
+        padding-top: 10px;
+    }
+
+    #blog-head {
+        padding-top: 40px;
+    }
+
+    #blog .left {
+        left: 43%;
+        bottom: 40px;
+    }
+
+    #blog .right {
+        right: 43%;
+        bottom: 40px;
+    }
+
+    #blog {
+        padding-bottom: 100px;
+    }
+
+    #client {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .client-logo {
+        text-align: center;
+        padding-bottom: 40px;
+    }
+
+    #footer {
+        padding-top: 30px;
+        padding-bottom: 5px;
+        text-align: center;
+    }
+
+    .footer-part-1 {
+        padding-bottom: 30px;
+    }
+
+    .footer-part-2 {
+        padding-bottom: 30px;
+    }
+
+
+
+
+
+}
+
+
+/* Extra Small Device */
+@media (max-width: 575.98px) {
+    .navbar-toggler i {
+        color: #fff;
+        font-size: 30px;
+        outline: 0;
+    }
+
+    .navbar-light .navbar-toggler {
+        border-color: transparent;
+    }
+
+    .navbar-toggler:not(:disabled):not(.disabled) {
+        background: #998675;
+    }
+
+    .navbar {
+        padding: 15px 1rem;
+    }
+
+    .navbar-nav {
+        background: #715944;
+        text-align: center;
+    }
+
+    #banner {
+        padding-top: 140px;
+        padding-bottom: 100px;
+    }
+
+    .banner-item h1 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 40px;
+        font-weight: 800;
+        color: #fff;
+        padding-bottom: 14px;
+    }
+
+    #service {
+        padding: 40px 0;
+    }
+
+    .idea-text {
+        padding-top: 40px;
+        padding-bottom: 10px;
+    }
+
+    .purchase-left {
+        text-align: center;
+    }
+
+    #purchase {
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+
+    .purchase-right {
+        text-align: center;
+    }
+
+    #gallery {
+        padding-top: 0;
+        padding-bottom: 50px;
+    }
+
+    .buttons button {
+        padding: 10px 10px;
+        margin-bottom: 15px;
+    }
+
+    .buttons {
+        padding-bottom: 15px;
+    }
+
+    .load-btn {
+        padding-top: 15px;
+    }
+
+    #vedio {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .idea-text h4 {
+        font-size: 22px;
+        font-weight: 700;
+    }
+
+    .idea-text p {
+        font-size: 14px;
+    }
+
+    #mobile {
+        padding-top: 50px;
+    }
+
+    .mobile-text {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+
+    .features {
+        padding-left: 10px;
+    }
+
+    .features i {
+        margin-right: 10px;
+    }
+
+    #counter {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+
+    .counter-item {
+        margin-bottom: 30px;
+        padding-left: 45px;
+        padding-right: 45px;
+    }
+
+    #blog-head {
+        padding-top: 40px;
+    }
+
+    #blog .left {
+        left: 43%;
+        bottom: 40px;
+    }
+
+    #blog .right {
+        right: 43%;
+        bottom: 40px;
+    }
+
+    #blog {
+        padding-bottom: 100px;
+    }
+
+    #client {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .client-logo {
+        text-align: center;
+        padding-bottom: 40px;
+    }
+
+    #footer {
+        padding-top: 30px;
+        padding-bottom: 5px;
+        text-align: center;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
